@@ -4,3 +4,8 @@ flamegraph.svg
 
 # Proptest data
 proptest-regressions/
+
+# JetBrains IDEs
+.idea/
+*.iml
+out/
